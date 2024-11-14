@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\richi\Desktop\homework4\p30\p30\main.c(15,10): warning C4047: '函式': 'int *' 與 'int (*)[3]' 間接取值的層級不同
+C:\Users\richi\Desktop\homework4\p30\p30\main.c(15,10): warning C4024: 'inverse': 型式和實質參數 1 不同的類型
+  p30.vcxproj -> C:\Users\richi\Desktop\homework4\p30\x64\Debug\p30.exe
